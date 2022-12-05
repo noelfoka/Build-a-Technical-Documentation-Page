@@ -83,7 +83,7 @@ html {
   code {
     display: block;
     text-align: left;
-    white-pace: pre-line;
+    white-space: pre-line;
     position: relative;
     word-break: normal;
     word-wrap: normal;
