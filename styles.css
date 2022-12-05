@@ -75,5 +75,26 @@ body {
     display: list-item;
     text-align: -webkit-match-parent;
   }
+
+  #navbar a {
+    color: #4d4e53;
+    display: block;
+    padding: 10px 30px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  #main-doc {
+    position: absolute;
+    margin-left: 310px;
+    padding: 20px;
+    margin-bottom: 110px;
+  }
+  section {
+    display: block;
+    color: #4d4e53;
+    margin: 15px;
+    font-size: 0.96em;
+  }
       
       
