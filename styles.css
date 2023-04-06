@@ -10,7 +10,7 @@ html {
   }
   #navbar {
     position: fixed;
-    min-width: 290;
+    min-width: 290px;
     top: 0;
     left: 0;
     width: 300px;
